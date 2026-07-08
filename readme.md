@@ -184,7 +184,7 @@ http://localhost:5173
 
 ## Author
 
-**Dhinesh Kumar Sgit branch -M main~**  
+**Dhinesh Kumar S**  
 VIT Vellore  
 GitHub: https://github.com/Dhinn02
 
