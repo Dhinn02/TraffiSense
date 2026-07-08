@@ -1,0 +1,158 @@
+[
+  {
+    "index": 0,
+    "sensor_id": 773869,
+    "latitude": 12.917209,
+    "longitude": 77.5858603
+  },
+  {
+    "index": 1,
+    "sensor_id": 767541,
+    "latitude": 12.9580529,
+    "longitude": 77.6059189
+  },
+  {
+    "index": 2,
+    "sensor_id": 767542,
+    "latitude": 12.9599337,
+    "longitude": 77.6019168
+  },
+  {
+    "index": 3,
+    "sensor_id": 717447,
+    "latitude": 12.9706326,
+    "longitude": 77.6103062
+  },
+  {
+    "index": 4,
+    "sensor_id": 717446,
+    "latitude": 12.9400273,
+    "longitude": 77.6253351
+  },
+  {
+    "index": 5,
+    "sensor_id": 717445,
+    "latitude": 12.9427582,
+    "longitude": 77.6225279
+  },
+  {
+    "index": 6,
+    "sensor_id": 773062,
+    "latitude": 12.9613763,
+    "longitude": 77.5840428
+  },
+  {
+    "index": 7,
+    "sensor_id": 767620,
+    "latitude": 12.9164504,
+    "longitude": 77.6101986
+  },
+  {
+    "index": 8,
+    "sensor_id": 737529,
+    "latitude": 12.9284001,
+    "longitude": 77.6005936
+  },
+  {
+    "index": 9,
+    "sensor_id": 717816,
+    "latitude": 12.9252707,
+    "longitude": 77.550087
+  },
+  {
+    "index": 10,
+    "sensor_id": 765604,
+    "latitude": 12.9294201,
+    "longitude": 77.5736196
+  },
+  {
+    "index": 11,
+    "sensor_id": 767471,
+    "latitude": 12.9368768,
+    "longitude": 77.5752561
+  },
+  {
+    "index": 12,
+    "sensor_id": 716339,
+    "latitude": 34.07821,
+    "longitude": -118.28795
+  },
+  {
+    "index": 13,
+    "sensor_id": 773906,
+    "latitude": 12.9284545,
+    "longitude": 77.5972154
+  },
+  {
+    "index": 14,
+    "sensor_id": 765273,
+    "latitude": 12.9279676,
+    "longitude": 77.5463249
+  },
+  {
+    "index": 15,
+    "sensor_id": 716331,
+    "latitude": 34.07006,
+    "longitude": -118.26246
+  },
+  {
+    "index": 16,
+    "sensor_id": 771667,
+    "latitude": 12.992623,
+    "longitude": 77.6097923
+  },
+  {
+    "index": 17,
+    "sensor_id": 716337,
+    "latitude": 12.9661078,
+    "longitude": 77.5355823
+  },
+  {
+    "index": 18,
+    "sensor_id": 769953,
+    "latitude": 12.9657245,
+    "longitude": 77.5865182
+  },
+  {
+    "index": 19,
+    "sensor_id": 769402,
+    "latitude": 12.9397582,
+    "longitude": 77.5739629
+  },
+  {
+    "index": 20,
+    "sensor_id": 769403,
+    "latitude": 12.9407831,
+    "longitude": 77.5738077
+  },
+  {
+    "index": 21,
+    "sensor_id": 769819,
+    "latitude": 12.9666398,
+    "longitude": 77.6203284
+  },
+  {
+    "index": 22,
+    "sensor_id": 769405,
+    "latitude": 13.0170551,
+    "longitude": 77.5605477
+  },
+  {
+    "index": 23,
+    "sensor_id": 716941,
+    "latitude": 12.9784796,
+    "longitude": 77.6465988
+  },
+  {
+    "index": 24,
+    "sensor_id": 717578,
+    "latitude": 12.9857661,
+    "longitude": 77.6449358
+  },
+  {
+    "index": 25,
+    "sensor_id": 716960,
+    "latitude": 12.9783441,
+    "longitude": 77.6410411
+  }
+]
