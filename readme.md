@@ -184,9 +184,9 @@ http://localhost:5173
 
 ## Author
 
-**Dhinesh Kumar S**  
+**Dhinesh Kumar Sgit branch -M main~**  
 VIT Vellore  
-GitHub: https://github.com/AJrelapse
+GitHub: https://github.com/Dhinn02
 
 ---
 
