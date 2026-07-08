@@ -184,7 +184,7 @@ http://localhost:5173
 
 ## Author
 
-**Ajay Anand**  
+**Dhinesh Kumar S**  
 VIT Vellore  
 GitHub: https://github.com/AJrelapse
 
